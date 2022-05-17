@@ -1,0 +1,1 @@
+Test adding string to a txt
